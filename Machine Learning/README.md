@@ -3,4 +3,3 @@
 
 *[课程地址](https://www.bilibili.com/video/BV1Pa411X76s)*
 
-**[第一周笔记](第一周笔记.pdf)**
